@@ -1,7 +1,7 @@
 {
   "name": "sebastienkeroack",
   "version": "1.0.0",
-  "description": "A portfolio website demonstrating some of the projects I have completed and my expertise.",
+  "description": "This project is a custom-designed portfolio website designed to host and showcase a multilingual personal portfolio.",
   "author": "Sébastien Kéroack",
   "devDependencies": {
     "@eslint/compat": "^1.2.7",
