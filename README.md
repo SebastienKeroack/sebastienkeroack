@@ -6,10 +6,10 @@ Key highlights include dynamic language loading, theme integration based on syst
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Installation](#Installation)
   - [Windows](https://github.com/SebastienKeroack/sebastienkeroack/blob/main/docs/INSTALLATION-GUIDE-FOR-WINDOWS.md "Installation on Windows")
-- [Features](#features)
-- [License](#license)
+- [Features](#Features)
+- [License](#License)
 
 ## Features
 

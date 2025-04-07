@@ -6,16 +6,16 @@ This guide provides step-by-step instructions to set up the project on a Windows
 
 ## Table of Contents
 
-1. [Releases](#releases)
-2. [Installation](#installation)
-   - [Install XAMPP](#1-install-xampp)
-   - [Clone the Repository](#2-clone-the-repository)
-   - [Set Up Environment Variables](#6-set-up-environment-variables)
-   - [Install Composer](#3-install-composer)
-   - [Install Bun](#4-install-bun)
-   - [Configure Virtual Hosts](#5-configure-virtual-hosts)
-3. [Additional Notes](#additional-notes)
-4. [Prerequisites](#prerequisites)
+1. [Releases](#Releases)
+2. [Installation](#Installation)
+   - [Install XAMPP](#1-Install-XAMPP)
+   - [Clone the Repository](#2-Clone-the-Repository)
+   - [Set Up Environment Variables](#3-Set-Up-Environment-Variables)
+   - [Install Composer](#4-Install-Composer)
+   - [Install Bun](#5-Install-Bun)
+   - [Configure Virtual Hosts](#6-Configure-Virtual-Hosts)
+3. [Additional Notes](#Additional-Notes)
+4. [Prerequisites](#Prerequisites)
 
 ---
 
