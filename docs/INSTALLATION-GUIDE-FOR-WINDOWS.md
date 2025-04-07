@@ -76,9 +76,9 @@ This guide provides step-by-step instructions to set up the project on a Windows
 2. **Clone the Repository**:
 
    - Navigate to the directory where you want to clone the repository:
-     ```shell
+     ```powershell
      git clone https://github.com/SebastienKeroack/sebastienkeroack.git .
-     cd sebastienkeroack
+     Set-Location sebastienkeroack
      ```
 
 3. **Create a Junction Link**:
