@@ -1,7 +1,7 @@
 {
   "name": "sebastienkeroack/sebastienkeroack",
   "type": "project",
-  "description": "A portfolio website demonstrating some of the projects I have completed and my expertise.",
+  "description": "This project is a custom-built website designed to host and showcase a multilingual personal portfolio.",
   "authors": [
     {
       "name": "Sébastien Kéroack",
@@ -39,6 +39,24 @@
   "scripts": {
     "lint": "phpcs",
     "fix": "phpcbf"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "keywords": [
+    "portfolio",
+    "multilingual",
+    "frontend",
+    "backend",
+    "web development",
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "PHP",
+    "SHTML"
+  ],
+  "support": {
+    "issues": "https://github.com/SebastienKeroack/sebastienkeroack/issues",
+    "source": "https://github.com/SebastienKeroack/sebastienkeroack"
   },
   "license": "Apache-2.0"
 }
