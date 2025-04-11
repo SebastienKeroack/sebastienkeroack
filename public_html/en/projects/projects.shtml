@@ -5,7 +5,7 @@
 
     <link rel="home" href="https://www.sebastienkeroack.com/en/">
     <link rel="canonical" href="https://www.sebastienkeroack.com/en/projects">
-  
+
     <title>Projects | Sébastien Kéroack</title>
 
     <!-- HTML Meta Tags -->
@@ -42,6 +42,8 @@
 
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/components/projects.css">
+
+    <script src="/js/utilities/img-fit-by-Y.js" defer></script>
   </head>
   <body>
     <!--#include virtual="/en/_header.html"-->

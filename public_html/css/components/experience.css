@@ -9,7 +9,7 @@ main {
     align-items: center;
     display: flex;
     gap: 10px;
-    margin-top: 20px;
+    margin: 20px 0;
   }
 }
 
@@ -18,7 +18,7 @@ main {
   border-radius: 5px;
   box-shadow: 0 0 15px 10px var(--bg-color-02);
   break-after: page;
-  margin: 32px 0;
+  margin-bottom: 64px;
   min-height: 313px;
   transition: all 0.2s ease-in-out;
   width: min(95%, 750px);

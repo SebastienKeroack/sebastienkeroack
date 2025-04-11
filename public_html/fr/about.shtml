@@ -43,7 +43,7 @@
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/about.css">
 
-    <script src="/js/utilities/fade-in.js" async></script>
+    <script src="/js/utilities/fade-in.js" defer></script>
   </head>
   <body>
     <!--#include virtual="/fr/_header.html"-->
