@@ -130,7 +130,7 @@ main {
     top: -32px;
 
     > li > img {
-      height: 64px;
+      height: 48px;
     }
   }
 }

@@ -53,6 +53,7 @@
         <div class="favicon"></div>
         <h1>Personal projects</h1>
       </div>
+      <!--#include virtual="/en/projects/_multilingual_personal_portfolio.html"-->
       <!--#include virtual="/en/projects/_automated_neural_architecture_search.html"-->
       <!--#include virtual="/en/projects/_sentiment_analysis_on_the_foreign_exchange_market.html"-->
       <!--#include virtual="/en/projects/_software_library_for_deep_learning.html"-->

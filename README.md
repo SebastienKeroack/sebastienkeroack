@@ -1,8 +1,8 @@
-# Multilingual Portfolio Website Implementation
+# Design and implementation of a multilingual portfolio website
 
 This project is a custom-built website designed to host and showcase a multilingual personal portfolio. While it is primarily developed and tested on a web server powered by XAMPP running on Windows 11, it can also be deployed on any web server that supports PHP and Apache (or equivalent). The website supports dynamic content localization, enabling seamless language switching (e.g., English and French). It is built with a focus on modularity and scalability, using CSS, HTML/SHTML for content rendering and JavaScript for frontend interactivity.
 
-Key highlights include dynamic language loading, theme integration based on system preferences (light/dark mode), support for social media meta tags to enhance sharing, and a structured approach to serving both static and dynamic content. The portfolio showcases personal projects in fields such as machine learning, deep learning, and software engineering, making it an ideal platform for professional self-presentation.
+Key highlights include dynamic language loading, theme integration based on system preferences (light/dark mode), support for social media meta tags to enhance sharing, and a structured approach to serving both static and dynamic content. The portfolio showcases personal projects in fields such as machine learning, deep learning, web development and software engineering, making it an ideal platform for professional self-presentation.
 
 It is accessible at [sebastienkeroack.com](https://sebastienkeroack.com).
 
